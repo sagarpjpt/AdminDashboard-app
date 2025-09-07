@@ -1,0 +1,23 @@
+---------------imp points---------------
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm i @mui/x-data-grid @mui/icons-material react-router-dom react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+
+material ui
+nivo charts: https://nivo.rocks/components
+full calendar: https://fullcalendar.io/docs
+formik ---> form library or use react hook form
+yup validation: https://github.com/jquense/yup
+react pro sidebar
+
+components folder ----> has components that used at one or more location
+scene/page folder -----> has react components that is used at one loc or is a parent component
+
+install tailwind shades to create a multiple shades from one color hex value -----> see theme.js
+theme.js where we use diff color scheme for dark and light mode
+
+Q->what is Yup ? ---> 
+A->Yup is a JavaScript schema validation library.
+It lets you define rules (a schema) for your data and then validate that data against those rules.
+Think of it as a form/data rule checker.
