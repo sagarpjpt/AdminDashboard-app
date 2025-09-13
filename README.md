@@ -33,9 +33,9 @@ It includes a dark/light mode toggle, sidebar navigation, charts, tables, calend
 
 ```plaintext
 src/
-│── components/ # Reusable UI components (Header, Charts, etc.)
+│── components/ # Reusable UI components (Header, Charts)
 │── data/ # Mock data (users, invoices, contacts, geography)
-│── scenes/ # Main app pages (Dashboard, Contacts, Charts, Calendar, FAQ, Form, etc.)
+│── scenes/ # Main app pages (Dashboard, Contacts, Charts, Calendar, FAQ, Form)
 │── theme.js # Theme tokens & color mode context
 │── App.jsx # App entry with routing
 │── main.jsx # ReactDOM entry
