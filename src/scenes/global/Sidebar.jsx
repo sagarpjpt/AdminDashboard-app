@@ -64,7 +64,7 @@ const Sidebar = () => {
     >
       <ProSidebar 
         collapsed={isCollapsed}
-        // breakPoint="md"
+        breakPoint="md"
       >
         <Menu iconShape="square">
           {/* LOGO AND MENU ICON */}

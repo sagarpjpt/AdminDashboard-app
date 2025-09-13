@@ -15,8 +15,10 @@ body,
 .app {
   display: flex;
   position: relative;
+  /* flex: 1; */
   /* background-color: red; */
 }
+
 
 ::-webkit-scrollbar {
   width: 10px;

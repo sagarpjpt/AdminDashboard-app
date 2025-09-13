@@ -31,6 +31,7 @@ It includes a dark/light mode toggle, sidebar navigation, charts, tables, calend
 
 ## 📂 Project Structure
 
+```plaintext
 src/
 │── components/ # Reusable UI components (Header, Charts, etc.)
 │── data/ # Mock data (users, invoices, contacts, geography)
@@ -38,6 +39,7 @@ src/
 │── theme.js # Theme tokens & color mode context
 │── App.jsx # App entry with routing
 │── main.jsx # ReactDOM entry
+```
 
 ---
 
